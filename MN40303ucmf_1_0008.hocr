@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "MN40303ucmf_1_0008.png"; bbox 0 0 2429 3448; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 196 325 1140 683">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 134 187 1140 683">
+     <span class='ocr_line' id='line_1_1' title="bbox 196 325 1140 683; baseline 0 -61"><span class='ocrx_word' id='word_1_1' title='bbox 196 325 908 683; x_wconf 79' lang='lat' dir='ltr'>Schmidt,</span> <span class='ocrx_word' id='word_1_2' title='bbox 970 342 1044 621; x_wconf 88' lang='lat' dir='ltr'>J</span> <span class='ocrx_word' id='word_1_3' title='bbox 1052 423 1140 622; x_wconf 91' lang='lat'>0</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 191 1271 1189 2047">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 191 1271 1189 2047">
+     <span class='ocr_line' id='line_1_2' title="bbox 191 1271 1189 1573; baseline -0.006 -5"><span class='ocrx_word' id='word_1_4' title='bbox 191 1271 1076 1573; x_wconf 79' lang='lat' dir='ltr'>Exercitatio</span> <span class='ocrx_word' id='word_1_5' title='bbox 1134 1310 1189 1562; x_wconf 95' lang='lat' dir='ltr'>t</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 197 1743 1172 2047; baseline -0.011 1"><span class='ocrx_word' id='word_1_6' title='bbox 197 1750 377 2047; x_wconf 84' lang='lat' dir='ltr'>de</span> <span class='ocrx_word' id='word_1_7' title='bbox 440 1743 1172 2047; x_wconf 84' lang='lat' dir='ltr'>continuis</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1220 3448">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1220 3448">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1220 3448; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 0 0 1220 3448; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 194 2696 1212 3081">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 194 2696 1212 3081">
+     <span class='ocr_line' id='line_1_5' title="bbox 194 2696 1212 3081; baseline -0.013 -89"><span class='ocrx_word' id='word_1_9' title='bbox 194 2700 857 3081; x_wconf 78' lang='lat' dir='ltr'>Leipzig,</span> <span class='ocrx_word' id='word_1_10' title='bbox 940 2696 1212 2985; x_wconf 82' lang='lat'>172</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
